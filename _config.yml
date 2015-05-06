@@ -1,0 +1,11 @@
+markdown: kramdown
+highlighter: pygments
+permalink: /news/:year/:month/:day/:title/
+excerpt_separator: ""
+
+repository: https://github.com/unueberlegt/unueberlegt.github.io
+help_url: https://github.com/jekyll/jekyll-help
+
+collections:
+  docs:
+    output: true
